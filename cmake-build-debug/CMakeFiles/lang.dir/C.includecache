@@ -85,4 +85,6 @@ vm.h
 /mnt/c/Users/aregk/CLionProjects/lang/vm.h
 chunk.h
 /mnt/c/Users/aregk/CLionProjects/lang/chunk.h
+value.h
+/mnt/c/Users/aregk/CLionProjects/lang/value.h
 
