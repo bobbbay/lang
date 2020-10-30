@@ -32,6 +32,7 @@ CMakeFiles/lang.dir/value.c.o
 CMakeFiles/lang.dir/vm.c.o
  /mnt/c/Users/aregk/CLionProjects/lang/chunk.h
  /mnt/c/Users/aregk/CLionProjects/lang/common.h
+ /mnt/c/Users/aregk/CLionProjects/lang/debug.h
  /mnt/c/Users/aregk/CLionProjects/lang/value.h
  /mnt/c/Users/aregk/CLionProjects/lang/vm.c
  /mnt/c/Users/aregk/CLionProjects/lang/vm.h

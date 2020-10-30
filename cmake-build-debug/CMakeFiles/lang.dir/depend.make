@@ -31,6 +31,7 @@ CMakeFiles/lang.dir/value.c.o: ../value.h
 
 CMakeFiles/lang.dir/vm.c.o: ../chunk.h
 CMakeFiles/lang.dir/vm.c.o: ../common.h
+CMakeFiles/lang.dir/vm.c.o: ../debug.h
 CMakeFiles/lang.dir/vm.c.o: ../value.h
 CMakeFiles/lang.dir/vm.c.o: ../vm.c
 CMakeFiles/lang.dir/vm.c.o: ../vm.h
