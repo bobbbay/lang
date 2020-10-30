@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/lang.dir/debug.c.o"
   "CMakeFiles/lang.dir/vm.c.o"
   "CMakeFiles/lang.dir/value.c.o"
+  "CMakeFiles/lang.dir/compiler.c.o"
+  "CMakeFiles/lang.dir/scanner.c.o"
   "lang.pdb"
   "lang"
 )

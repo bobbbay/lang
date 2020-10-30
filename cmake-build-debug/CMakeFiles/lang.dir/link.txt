@@ -1,1 +1,1 @@
-/usr/bin/cc -g   CMakeFiles/lang.dir/main.c.o CMakeFiles/lang.dir/chunk.c.o CMakeFiles/lang.dir/memory.c.o CMakeFiles/lang.dir/debug.c.o CMakeFiles/lang.dir/vm.c.o CMakeFiles/lang.dir/value.c.o  -o lang 
+/usr/bin/cc -g   CMakeFiles/lang.dir/main.c.o CMakeFiles/lang.dir/chunk.c.o CMakeFiles/lang.dir/memory.c.o CMakeFiles/lang.dir/debug.c.o CMakeFiles/lang.dir/vm.c.o CMakeFiles/lang.dir/value.c.o CMakeFiles/lang.dir/compiler.c.o CMakeFiles/lang.dir/scanner.c.o  -o lang 

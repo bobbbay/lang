@@ -7,6 +7,11 @@ CMakeFiles/lang.dir/chunk.c.o: ../common.h
 CMakeFiles/lang.dir/chunk.c.o: ../memory.h
 CMakeFiles/lang.dir/chunk.c.o: ../value.h
 
+CMakeFiles/lang.dir/compiler.c.o: ../common.h
+CMakeFiles/lang.dir/compiler.c.o: ../compiler.c
+CMakeFiles/lang.dir/compiler.c.o: ../compiler.h
+CMakeFiles/lang.dir/compiler.c.o: ../scanner.h
+
 CMakeFiles/lang.dir/debug.c.o: ../chunk.h
 CMakeFiles/lang.dir/debug.c.o: ../common.h
 CMakeFiles/lang.dir/debug.c.o: ../debug.c
@@ -24,6 +29,10 @@ CMakeFiles/lang.dir/memory.c.o: ../common.h
 CMakeFiles/lang.dir/memory.c.o: ../memory.c
 CMakeFiles/lang.dir/memory.c.o: ../memory.h
 
+CMakeFiles/lang.dir/scanner.c.o: ../common.h
+CMakeFiles/lang.dir/scanner.c.o: ../scanner.c
+CMakeFiles/lang.dir/scanner.c.o: ../scanner.h
+
 CMakeFiles/lang.dir/value.c.o: ../common.h
 CMakeFiles/lang.dir/value.c.o: ../memory.h
 CMakeFiles/lang.dir/value.c.o: ../value.c
@@ -31,6 +40,7 @@ CMakeFiles/lang.dir/value.c.o: ../value.h
 
 CMakeFiles/lang.dir/vm.c.o: ../chunk.h
 CMakeFiles/lang.dir/vm.c.o: ../common.h
+CMakeFiles/lang.dir/vm.c.o: ../compiler.h
 CMakeFiles/lang.dir/vm.c.o: ../debug.h
 CMakeFiles/lang.dir/vm.c.o: ../value.h
 CMakeFiles/lang.dir/vm.c.o: ../vm.c

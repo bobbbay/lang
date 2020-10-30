@@ -28,6 +28,18 @@ stddef.h
 stdint.h
 -
 
+/mnt/c/Users/aregk/CLionProjects/lang/compiler.c
+stdio.h
+-
+common.h
+/mnt/c/Users/aregk/CLionProjects/lang/common.h
+compiler.h
+/mnt/c/Users/aregk/CLionProjects/lang/compiler.h
+scanner.h
+/mnt/c/Users/aregk/CLionProjects/lang/scanner.h
+
+/mnt/c/Users/aregk/CLionProjects/lang/compiler.h
+
 /mnt/c/Users/aregk/CLionProjects/lang/debug.c
 stdio.h
 -
@@ -42,6 +54,12 @@ chunk.h
 
 /mnt/c/Users/aregk/CLionProjects/lang/main.c
 stdio.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
 -
 chunk.h
 /mnt/c/Users/aregk/CLionProjects/lang/chunk.h
@@ -60,6 +78,18 @@ memory.h
 common.h
 /mnt/c/Users/aregk/CLionProjects/lang/common.h
 
+/mnt/c/Users/aregk/CLionProjects/lang/scanner.c
+stdio.h
+-
+string.h
+-
+common.h
+/mnt/c/Users/aregk/CLionProjects/lang/common.h
+scanner.h
+/mnt/c/Users/aregk/CLionProjects/lang/scanner.h
+
+/mnt/c/Users/aregk/CLionProjects/lang/scanner.h
+
 /mnt/c/Users/aregk/CLionProjects/lang/value.c
 stdio.h
 -
@@ -77,6 +107,8 @@ stdio.h
 -
 common.h
 /mnt/c/Users/aregk/CLionProjects/lang/common.h
+compiler.h
+/mnt/c/Users/aregk/CLionProjects/lang/compiler.h
 debug.h
 /mnt/c/Users/aregk/CLionProjects/lang/debug.h
 vm.h

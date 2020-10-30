@@ -87,6 +87,12 @@
 		<Unit filename="/mnt/c/Users/aregk/CLionProjects/lang/common.h">
 			<Option target="lang"/>
 		</Unit>
+		<Unit filename="/mnt/c/Users/aregk/CLionProjects/lang/compiler.c">
+			<Option target="lang"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/aregk/CLionProjects/lang/compiler.h">
+			<Option target="lang"/>
+		</Unit>
 		<Unit filename="/mnt/c/Users/aregk/CLionProjects/lang/debug.c">
 			<Option target="lang"/>
 		</Unit>
@@ -100,6 +106,12 @@
 			<Option target="lang"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/aregk/CLionProjects/lang/memory.h">
+			<Option target="lang"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/aregk/CLionProjects/lang/scanner.c">
+			<Option target="lang"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/aregk/CLionProjects/lang/scanner.h">
 			<Option target="lang"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/aregk/CLionProjects/lang/value.c">
