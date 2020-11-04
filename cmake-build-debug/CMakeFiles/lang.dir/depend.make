@@ -7,10 +7,13 @@ CMakeFiles/lang.dir/chunk.c.o: ../common.h
 CMakeFiles/lang.dir/chunk.c.o: ../memory.h
 CMakeFiles/lang.dir/chunk.c.o: ../value.h
 
+CMakeFiles/lang.dir/compiler.c.o: ../chunk.h
 CMakeFiles/lang.dir/compiler.c.o: ../common.h
 CMakeFiles/lang.dir/compiler.c.o: ../compiler.c
 CMakeFiles/lang.dir/compiler.c.o: ../compiler.h
 CMakeFiles/lang.dir/compiler.c.o: ../scanner.h
+CMakeFiles/lang.dir/compiler.c.o: ../value.h
+CMakeFiles/lang.dir/compiler.c.o: ../vm.h
 
 CMakeFiles/lang.dir/debug.c.o: ../chunk.h
 CMakeFiles/lang.dir/debug.c.o: ../common.h
