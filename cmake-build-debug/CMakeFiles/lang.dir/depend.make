@@ -11,6 +11,7 @@ CMakeFiles/lang.dir/compiler.c.o: ../chunk.h
 CMakeFiles/lang.dir/compiler.c.o: ../common.h
 CMakeFiles/lang.dir/compiler.c.o: ../compiler.c
 CMakeFiles/lang.dir/compiler.c.o: ../compiler.h
+CMakeFiles/lang.dir/compiler.c.o: ../debug.h
 CMakeFiles/lang.dir/compiler.c.o: ../scanner.h
 CMakeFiles/lang.dir/compiler.c.o: ../value.h
 CMakeFiles/lang.dir/compiler.c.o: ../vm.h

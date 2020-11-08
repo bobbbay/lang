@@ -39,6 +39,8 @@ compiler.h
 /mnt/c/Users/aregk/CLionProjects/lang/compiler.h
 scanner.h
 /mnt/c/Users/aregk/CLionProjects/lang/scanner.h
+debug.h
+/mnt/c/Users/aregk/CLionProjects/lang/debug.h
 
 /mnt/c/Users/aregk/CLionProjects/lang/compiler.h
 vm.h
